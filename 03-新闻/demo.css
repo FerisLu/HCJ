@@ -1,0 +1,39 @@
+body {
+  font: 16px/28px 'Microsoft YaHei';
+}
+h1 {
+  font-weight: 400;
+  font-weight: normal;
+  text-align: center;
+}
+
+.gary {
+  text-align: center;
+  color: #888888;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.search {
+  color: #666;
+  width: 170px;
+}
+
+.btn {
+  font-weight: 700;
+}
+
+p {
+  text-indent: 2em;
+}
+.pic {
+  text-align: center;
+}
+
+.footer {
+  color: #888888;
+  font-size: 12px;
+}
